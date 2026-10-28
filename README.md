@@ -63,6 +63,7 @@
 - ⚡ [开发者速查表](https://github.com/AnonymousLeeJJ/cheatsheets-zh) — Git/Docker/Linux/Vim/正则/HTTP/SQL 高频命令随查随用
 - ✨ [Pure CSS Effects](https://github.com/AnonymousLeeJJ/pure-css-effects) — 纯 CSS 特效库，实时预览一键复制
 - 📚 [书灵.skill](https://github.com/AnonymousLeeJJ/shuling-skill) — 把书、课程或资料蒸馏成可调用的 AI 顾问
+- 🧩 [Agent Skills 中文导航](https://github.com/AnonymousLeeJJ/awesome-agent-skills-zh) — 精选真实可用的 Agent Skills、合集与规范资源
 
 ## 📄 许可
 
